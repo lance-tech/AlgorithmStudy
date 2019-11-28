@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp", "Cpp\Cpp.vcxproj", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{83797470-1FAC-46E5-8E37-A51DF5E3E33F}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python", "Python\Python.pyproj", "{521A84DF-38FC-4DA8-A637-ECE10CBD276F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,12 @@ Global
 		{83797470-1FAC-46E5-8E37-A51DF5E3E33F}.Release|x64.Build.0 = Release|Any CPU
 		{83797470-1FAC-46E5-8E37-A51DF5E3E33F}.Release|x86.ActiveCfg = Release|Any CPU
 		{83797470-1FAC-46E5-8E37-A51DF5E3E33F}.Release|x86.Build.0 = Release|Any CPU
+		{521A84DF-38FC-4DA8-A637-ECE10CBD276F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521A84DF-38FC-4DA8-A637-ECE10CBD276F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{521A84DF-38FC-4DA8-A637-ECE10CBD276F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{521A84DF-38FC-4DA8-A637-ECE10CBD276F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521A84DF-38FC-4DA8-A637-ECE10CBD276F}.Release|x64.ActiveCfg = Release|Any CPU
+		{521A84DF-38FC-4DA8-A637-ECE10CBD276F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
